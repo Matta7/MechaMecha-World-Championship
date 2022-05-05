@@ -1,0 +1,14 @@
+Vspeed:|3.5|
+Hspeed:|7|
+fall:|1|
+HP:|100|
+SP:|120|
+punch:
+damage:|9|
+cooldown:|0.6|
+missile
+damage:|6|
+cooldown:|4|
+def:|0.6|
+sentence 1:|It's...|
+sentence 2:|TEA TIME!|

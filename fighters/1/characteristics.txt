@@ -1,0 +1,14 @@
+Vspeed:|3|
+Hspeed:|6|
+fall:|2.5|
+HP:|90|
+SP:|60|
+punch:
+damage:|12|
+cooldown:|0.5|
+missile
+damage:|8|
+cooldown:|2|
+def:|0.8|
+sentence 1:|Hon hon hon...|
+sentence 2:|BAGUETTE!|

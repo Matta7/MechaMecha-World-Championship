@@ -1,0 +1,14 @@
+Vspeed:|2.5|
+Hspeed:|9|
+fall:|1.7|
+HP:|80|
+SP:|120|
+punch:
+damage:|9|
+cooldown:|0.4|
+missile
+damage:|5|
+cooldown:|2|
+def:|0.9|
+sentence 1:|Omae wa mou|
+sentence 2:|SHINDEIRU!|

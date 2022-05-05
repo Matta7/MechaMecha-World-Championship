@@ -1,0 +1,14 @@
+﻿Vspeed:|4|
+Hspeed:|10|
+fall:|3|
+HP:|100|
+SP:|100|
+punch:
+damage:|11|
+cooldown:|0.3|
+missile
+damage:|1|
+cooldown:|0.2|
+def:|0.9|
+sentence 1:|Vas a morir...|
+sentence 2:|DESPACITO!|

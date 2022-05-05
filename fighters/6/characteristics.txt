@@ -1,0 +1,14 @@
+Vspeed:|2.5|
+Hspeed:|6.5|
+fall:|2|
+HP:|100|
+SP:|100|
+punch:
+damage:|10|
+cooldown:|0.5|
+missile
+damage:|7|
+cooldown:|3|
+def:|0.7|
+sentence 1:|Ecco la|
+sentence 2:|SPECIALITÀ DELLO CHEF!|

@@ -1,0 +1,14 @@
+Vspeed:|1.5|
+Hspeed:|4|
+fall:|10|
+HP:|150|
+SP:|100|
+punch:
+damage:|0.4|
+cooldown:|0.7|
+missile
+damage:|30|
+cooldown:|10|
+def:|0.5|
+sentence 1:|America|
+sentence 2:|FUCK YEAH!|
